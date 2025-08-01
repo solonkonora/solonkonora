@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 <!-- GitHub Profile README for solonkonora -->
 
-Hi there 👋 My name is Nkwada Nora
+Hi there 👋 I'm Nkwada Nora
 ============================
 
 Software Engineer
@@ -68,13 +68,11 @@ Software Engineer
 
 ---
 ### 📊 GitHub Stats
-<div align="center">
    <p align="center">
      <img src="https://github-readme-stats.vercel.app/api?username=solonkonora&show_icons=true&theme=github_dark&hide_border=false" alt="My GitHub Stats" /><br>
      <img src="https://github-readme-streak-stats.herokuapp.com?user=solonkonora&theme=github-dark&hide_border=false" alt="My GitHub Streak" /><br>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solonkonora&layout=compact&theme=github_dark&hide_border=false" alt="Top Languages" />
    </p>
-</div>
 
 ---
 
