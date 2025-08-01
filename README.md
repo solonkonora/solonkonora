@@ -13,11 +13,7 @@ Here are some ideas to get you started:
 <!-- GitHub Profile README for solonkonora -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0078FF&width=435&lines=Hey+there!+I'm+Nkwada+Nora;A full-stack Developer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=solonkonora&label=Profile%20views&color=0078ff&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0078FF&width=435&lines=Hi+there!+I'm+Nkwada+Nora;A+Fullstack+Developer" alt="Typing SVG" />
 </p>
 
 ---
