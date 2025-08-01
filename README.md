@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 
 <!-- GitHub Profile README for solonkonora -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0078FF&width=435&lines=Hi+there!+I'm+Nkwada+Nora;A+Fullstack+Developer" alt="Typing SVG" />
-</p>
+Hi there 👋 My name is Nkwada Nora
+============================
+
+Software Engineer
+-----------------
 
 ---
 
