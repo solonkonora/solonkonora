@@ -16,13 +16,26 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0078FF&width=435&lines=Hey+there!+I'm+Nkwada+Nora;A full-stack Developer" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=solonkonora&label=Profile%20views&color=0078ff&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ### 👋 About Me
 
 - 🌱 I’m passionate about software development, open source, and continuous learning.
-- 💬 Ask me about anything related to (js, typs.
+- 🔭 I’m currently working on "Diligent Services": https://diligent-events.vercel.app/
 - 🚀 Always excited to collaborate on interesting real-world projects!
+
+---
+
+### 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![Email](https://img.shields.io/badge/email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:nkwadanora@gmail.com)
+[![X](https://img.shields.io/badge/X-%2318171A.svg?style=flat-square&logo=x&logoColor=white)](https://x.com/SolonkoNora)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/652161749)
 
 ---
 
@@ -64,13 +77,6 @@ Here are some ideas to get you started:
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solonkonora&layout=compact&theme=github_dark&hide_border=false" alt="Top Languages" />
    </p>
 </div>
-
----
-
-### 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Email](https://img.shields.io/badge/email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:nkwadanora@gmail.com)
 
 ---
 
