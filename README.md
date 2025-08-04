@@ -20,8 +20,6 @@ Software Engineer
 
 ---
 
-### 👋 About Me
-
 - 🌱 I’m passionate about software development, open source, and continuous learning.
 - 🔭 I’m currently working on "Diligent Services": https://diligent-events.vercel.app/
 - 🚀 Always excited to collaborate on interesting real-world projects!
@@ -70,14 +68,13 @@ Software Engineer
 ### 📊 GitHub Stats
    <p align="center">
      <img src="https://github-readme-stats.vercel.app/api?username=solonkonora&show_icons=true&theme=github_dark&hide_border=false" alt="My GitHub Stats" /><br>
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=solonkonora&theme=github-dark&hide_border=false" alt="My GitHub Streak" /><br>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solonkonora&layout=compact&theme=github_dark&hide_border=false" alt="Top Languages" />
    </p>
 
 ---
 
 <details>
-<summary>More About My Work</summary>
+<summary>More About My Me</summary>
 
 - 📈 I love tracking my learning journey and project progress.
 - 🏅 I enjoy participating in hackathons and open-source events.
